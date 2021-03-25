@@ -1,0 +1,72 @@
+body{
+    margin-bottom: 75px;
+}
+
+.logo{
+    width: 60px;
+    height: 60px;
+    background-color: #00ade6;
+    color: #fff;
+    padding: 5px 5px;
+    font-size: 12px;
+    font-weight: bold;
+    position: relative;
+}
+
+.logo .nombre{
+    font-size: 22px;
+    position: absolute;
+    top: 12px;
+}
+
+.site-nav-bar{
+    background-color: #00A7E3;
+}
+
+.nav .nav-item a{
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 14px;
+}
+
+.nav-highlight{
+    background-color: #4DC2EB;
+    padding: 0px 6px;
+    margin: .5rem .5rem;
+    border-radius: 5px;
+}
+
+.site-info{
+    background-color: #000145;
+    color: #fff;
+    font-size: 14px;
+    padding: 5px 0px;
+}
+
+.site-info span{
+    font-weight: bold;
+}
+
+.separation{
+    height: 90px;
+    background-color: #F8F8F8;
+}
+
+.info-continu{
+    background-color: #EEEEEE;
+}
+
+.info-continu-titre{
+    background-color: #000;
+    color: #fff;
+    padding: 5px 15px;
+    align-items: center;
+    text-align: center;
+}
+
+
+.info-heure{
+    background-color: #00A7E3;
+    color: #fff;
+    padding: 5px;
+}
